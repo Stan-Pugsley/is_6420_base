@@ -1,13 +1,294 @@
-product_id,product_name,product_price
-101,DellE5300Laptop,489.98
-102,AppleLaptop,988.72
-103,Printer,59
-104,Desk,85.98
-105,OfficeChair,55.99
-106,Stapler,15.88
-107,IndexDivider,5.99
-108,Shredder,74.99
-109,27inchmonitor,129.99
-110,AppleiPadMini,329.99
-111,PrinterInkCartridge,39.99
-112,Whiteprint/copypaper,4.99
+"product_id","product_name","product_line","product_price","product_status"
+214,"Samsung Galaxy S20 FE 5G (Cloud Navy, 8GB RAM, 128GB Storage) with No Cost EMI & Additional Exchange Offers",Electronics,914.62,Active
+215,"OnePlus 10R 5G (Forest Green, 8GB RAM, 128GB Storage, 80W SuperVOOC)",Electronics,475.60,Active
+218,pTron Solero MB301 3A Micro USB Data & Charging Cable,Accessories,9.50,Not Active
+219,pTron Solero MB301 3A Micro USB Data & Charging Cable,Accessories,9.50,Not Active
+220,Acer 139 cm (55 inches) H Series 4K Ultra HD Android Smart LED TV AR55AR2851UDPRO (Black),Electronics,609.63,Active
+223,Classmate Pulse Spiral Notebook,OfficeProducts,8.64,Active
+226,"Long-Sleeve Logo Jersey, S",Clothing,48.07,Active
+229,"Long-Sleeve Logo Jersey, M",Clothing,48.07,Active
+232,"Long-Sleeve Logo Jersey, L",Clothing,48.07,Active
+235,"Long-Sleeve Logo Jersey, XL",Clothing,48.07,Active
+238,VU 164 cm (65 inches) The GloLED Series 4K Smart LED Google TV 65GloLED (Grey),Electronics,1036.59,Active
+241,"OnePlus Nord 2T 5G (Jade Fog, 12GB RAM, 256GB Storage)",Electronics,414.62,Active
+244,World of Nintendo Mario Bros U Boo Plush,Video Games,11.99,Active
+247,OnePlus 126 cm (50 inches) Y Series 4K Ultra HD Smart Android LED TV 50Y1S Pro (Black),Electronics,560.96,Active
+250,Battlefield 1 - Xbox One,Video Games,10.00,Active
+253,"Curved Monitor - Black, 58",Components,297.63,Active
+256,"Curved Monitor - Black, 60",Components,297.63,Active
+259,"Curved Monitor - Black, 62",Components,297.63,Active
+262,"Curved Monitor - Red, 44",Components,306.56,Active
+264,"Curved Monitor - Red, 48",Components,306.56,Active
+266,"Curved Monitor - Red, 52",Components,306.56,Active
+268,"Curved Monitor - Red, 58",Components,306.56,Active
+270,"Curved Monitor - Red, 60",Components,306.56,Active
+272,"Curved Monitor - Red, 62",Components,306.56,Active
+274,GoPro Hero12 Black,Cameras,349.00,Active
+275,GoPro Hero12 Grey,Cameras,349.00,Active
+276,GoPro Hero12 Red,Cameras,349.00,Active
+277,GoPro Hero12 Custom,Cameras,349.00,Active
+278,Canon EOS R10,Cameras,879.00,Active
+279,"Curved Monitor - Black, 44",Components,297.63,Active
+282,"Curved Monitor - Black, 48",Components,297.63,Active
+285,"Curved Monitor - Black, 52",Components,297.63,Active
+288,"APPLE iPhone 15 Plus (Yellow, 256 GB)",Mobile,899.00,Active
+291,Canon EOS R7,Cameras,1399.00,Active
+292,Canon EOS R6 Mark II,Cameras,2299.00,Active
+293,"APPLE iPhone 15 Pro (Blue, 256 GB)",Mobile,1000.01,Active
+296,"APPLE iPhone 15 Plus (Blue, 256 GB)",Mobile,899.00,Active
+299,Sony Cyber-shot DSC-RX100 VII,Cameras,1298.00,Active
+300,Fujifilm X-S20,Cameras,1349.60,Active
+301,"APPLE iPhone 15 Plus (Purple, 256 GB)",Mobile,899.00,Active
+304,"APPLE iPhone 15 Plus (Midnight, 256 GB)",Mobile,899.00,Active
+307,"APPLE iPhone 15 Pro (Purple, 256 GB)",Mobile,1000.01,Active
+310,Gaming Laptop Black,Laptop,3578.27,Active
+311,Gaming Laptop Grey,Laptop,3578.27,Active
+312,Gaming Laptop Silver,Laptop,3578.27,Active
+313,Gaming Laptop Matte,Laptop,3578.27,Active
+314,Gaming Laptop,Laptop,3578.27,Active
+315,"Road-450 Red, 58",Bikes,1457.99,Active
+316,"Road-450 Red, 60",Bikes,1457.99,Active
+317,"Road-450 Red, 44",Bikes,1457.99,Active
+318,"Road-450 Red, 48",Bikes,1457.99,Active
+319,"Road-450 Red, 52",Bikes,1457.99,Active
+320,"Road-650 Red, 58",Cameras,699.10,Active
+322,"Road-650 Red, 60",Cameras,699.10,Active
+324,"Road-650 Red, 62",Cameras,699.10,Active
+326,"Road-650 Red, 44",Cameras,699.10,Active
+328,"Road-650 Red, 48",Cameras,699.10,Active
+330,"Road-650 Red, 52",Cameras,699.10,Active
+332,"Road-650 Black, 58",Cameras,699.10,Active
+334,"Road-650 Black, 60",Cameras,699.10,Active
+336,"Road-650 Black, 62",Cameras,699.10,Active
+338,"Road-650 Black, 44",Cameras,699.10,Active
+340,"Road-650 Black, 48",Cameras,699.10,Active
+342,"Road-650 Black, 52",Cameras,699.10,Active
+344,"Projector Silver, 38",Projector,3399.99,Active
+345,"Projector Silver, 42",Projector,3399.99,Active
+346,"Projector Silver, 44",Projector,3399.99,Active
+347,"Projector Silver, 48",Projector,3399.99,Active
+348,"Projector Black, 38",Projector,3374.99,Active
+349,"Projector Black, 42",Projector,3374.99,Active
+350,"Projector Black, 44",Projector,3374.99,Active
+351,"Projector Black, 48",Projector,3374.99,Active
+352,"Mountain-200 Silver, 38",Bikes,2071.42,Active
+354,"Mountain-200 Silver, 42",Bikes,2071.42,Active
+356,"Mountain-200 Silver, 46",Bikes,2071.42,Active
+358,"Mountain-200 Black, 38",Bikes,2049.10,Active
+360,"Mountain-200 Black, 42",Bikes,2049.10,Active
+362,"Mountain-200 Black, 46",Bikes,2049.10,Active
+364,"Apple iPhone XR (White, 256 GB) (Includes EarPods, Power Adapter)",Mobile,649.99,Active
+365,"SAMSUNG Galaxy S23 Ultra 5G (Cream, 256 GB)",Mobile,1199.99,Active
+366,"SAMSUNG Galaxy S23 Ultra 5G (Phantom Black, 256 GB)",Mobile,1199.99,Active
+367,"SAMSUNG Galaxy S23 Ultra 5G (Graphite, 256 GB)",Mobile,1199.99,Active
+368,"Road-250 Red, 44",Bikes,2443.35,Active
+369,"Road-250 Red, 48",Bikes,2443.35,Active
+370,"Road-250 Red, 52",Bikes,2443.35,Active
+371,"Road-250 Red, 58",Bikes,2181.56,Active
+373,"Road-250 Black, 44",Bikes,2181.56,Active
+375,"Road-250 Black, 48",Bikes,2181.56,Active
+377,"Road-250 Black, 52",Bikes,2181.56,Active
+379,"Road-250 Black, 58",Bikes,2181.56,Active
+381,"APPLE iPhone 11 Pro Max (Space Grey, 64 GB)",Mobile,1000.44,Active
+383,"APPLE iPhone 11 Pro Max (Midnight Green, 64 GB)",Mobile,1000.44,Active
+385,"SAMSUNG Galaxy S23 Plus 5G (Cream, 256 GB)",Mobile,1000.44,Active
+387,"SAMSUNG Galaxy S23 Plus 5G (Phantom Black, 256 GB)",Mobile,1000.44,Active
+389,"SAMSUNG Galaxy Z Flip4 5G (Graphite, 256 GB)",Mobile,1000.44,Active
+391,LL Fork,Components,148.22,Active
+392,ML Fork,Components,175.49,Active
+393,HL Fork,Components,,Not Active
+394,"Lenovo IdeaPad 3 11th Gen Intel Core i3 15.6 FHD Thin & Light Laptop(8GB-512GB SSD-Windows 11-Office 2021-2Yr Warranty-3months Xbox Game Pass-Platinum Grey-1.7Kg), 81X800LGIN",Electronics,730.37,Active
+395,ML Headset,Components,102.29,Active
+396,HL Headset,Components,124.73,Active
+397,LL Mountain Handlebars,Components,40.49,Active
+399,ML Mountain Handlebars,Components,56.29,Active
+401,HL Mountain Handlebars,,109.34,Active
+403,LL Road Handlebars,Components,40.49,Active
+405,ML Road Handlebars,Components,56.29,Active
+407,HL Road Handlebars,,109.34,Active
+409,"ML Mountain Frame - Black, 38",Components,348.76,Active
+410,LL Mountain Front Wheel,Components,60.75,Active
+411,ML Mountain Front Wheel,Components,,Not Active
+412,HL Mountain Front Wheel,Components,300.22,Active
+413,LL Road Front Wheel,Components,85.57,Active
+414,ML Road Front Wheel,Components,248.39,Active
+415,HL Road Front Wheel,Components,330.06,Active
+416,Touring Front Wheel,Components,,Not Active
+417,AmazonBasics 108 cm (43 inches) 4K Ultra HD Smart LED Fire TV AB43U20PS (Black),Electronics,609.76,Active
+419,LL Mountain Rear Wheel,Components,87.75,Active
+420,ML Mountain Rear Wheel,Components,236.03,Active
+421,HL Mountain Rear Wheel,Components,327.22,Active
+422,LL Road Rear Wheel,Components,112.57,Active
+423,ML Road Rear Wheel,Components,275.39,Active
+424,HL Road Rear Wheel,Components,357.06,Active
+425,Touring Rear Wheel,Components,245.01,Active
+426,"ML Mountain Frame - Black, 40",Components,348.76,Active
+427,"ML Mountain Frame - Black, 44",Components,348.76,Active
+428,"ML Mountain Frame - Black, 48",Components,348.76,Active
+429,Hisense 108 cm (43 inches) 4K Ultra HD Smart Certified Android LED TV 43A6GE (Black),Electronics,548.66,Active
+431,Redmi 108 cm (43 inches) 4K Ultra HD Android Smart LED TV X43 | L43R7-7AIN (Black),Electronics,524.38,Active
+433,Kodak 126 cm (50 inches) Bezel-Less Design Series 4K Ultra HD Smart Android LED TV 50UHDX7XPROBL (Black),Electronics,524.38,Active
+435,TCL 100 cm (40 inches) Full HD Certified Android R Smart LED TV 40S6505 (Black),Electronics,499.88,Active
+437,"APPLE iPhone 15 Pro Max (Midnight, 256 GB)",Mobile,1199.00,Active
+439,"APPLE iPhone 15 Pro Max (Yellow, 256 GB)",Mobile,1199.00,Active
+441,"HL Road Frame - Black, 48",Cameras,1301.36,Active
+443,Lumix G9 II with lens,Cameras,1897.00,Active
+445,"Mens Sports Shorts, S",Clothing,59.99,Active
+446,"Touring-Panniers, Large",Accessories,125.00,Active
+447,Samsung 108 cm (43 inches) Crystal 4K Series Ultra HD Smart LED TV UA43AUE60AKLXL (Black),Electronics,645.12,Active
+448,Minipump,Accessories,19.99,Active
+449,OnePlus 108 cm (43 inches) Y Series 4K Ultra HD Smart Android LED TV 43Y1S Pro (Black),Electronics,487.79,Active
+450,Taillights - Battery-Powered,Accessories,13.99,Active
+451,VU 139 cm (55 inches) The GloLED Series 4K Smart LED Google TV 55GloLED (Grey),Electronics,792.68,Active
+452,Headlights - Weatherproof,Accessories,44.99,Active
+453,"Mens Sports Shorts, M",Clothing,59.99,Active
+454,"Mens Sports Shorts, L",Clothing,59.99,Active
+455,"Mens Sports Shorts, XL",Clothing,59.99,Active
+456,"WoMens Tights, S",Clothing,74.99,Active
+457,"WoMens Tights, M",Clothing,74.99,Active
+458,"WoMens Tights, L",Clothing,74.99,Active
+459,"Mens Bib-Shorts, S",Clothing,89.99,Active
+460,"Mens Bib-Shorts, M",Clothing,89.99,Active
+461,"Mens Bib-Shorts, L",Clothing,89.99,Active
+462,"Half-Finger Gloves, S",Clothing,235481.00,Not Active
+464,"Half-Finger Gloves, M",Clothing,235481.00,Not Active
+466,"Half-Finger Gloves, L",Clothing,235481.00,Not Active
+468,OnePlus 138.7 cm (55 inches) U Series 4K LED Smart Android TV 55U1S (Black),Electronics,731.70,Active
+469,"OnePlus 10T 5G (Moonstone Black, 8GB RAM, 128GB Storage)",Electronics,609.74,Active
+470,Samsung 138 cm (55 inches) Crystal 4K Series Ultra HD Smart LED TV UA55AUE60AKLXL (Black),Electronics,852.44,Active
+471,"Classic Vest, S",Clothing,63.50,Active
+472,"Classic Vest, M",Clothing,63.50,Active
+473,"Classic Vest, L",Clothing,63.50,Active
+474,"WoMens Mountain Shorts, S",Clothing,69.99,Active
+475,"WoMens Mountain Shorts, M",Clothing,69.99,Active
+476,"WoMens Mountain Shorts, L",Clothing,69.99,Active
+477,Water Bottle - 30 oz.,Accessories,4.99,Active
+478,pTron Solero MB301 3A Micro USB Data & Charging Cable,Accessories,9.99,Not Active
+479,Road Bottle Cage,Accessories,8.99,Active
+480,E-COSMOS 5V 1.2W Portable Flexible USB LED Light,Accessories,2.29,Active
+481,"Racing Socks, M",Clothing,8.99,Active
+482,"Racing Socks, L",Clothing,8.99,Active
+483,Hitch Rack - 4-Bike,Accessories,120.00,Active
+484,Bike Wash - Dissolver,Accessories,7.95,Active
+485,VU 138 cm (55 inches) Premium Series 4K Ultra HD Smart IPS LED TV 55UT (Black),Electronics,792.68,Active
+486,All-Purpose Bike Stand,Accessories,159.00,Active
+487,Hydration Pack - 70 oz.,Accessories,54.99,Active
+488,"Short-Sleeve Classic Jersey, S",Clothing,53.99,Active
+489,"Short-Sleeve Classic Jersey, M",Clothing,53.99,Active
+490,"Short-Sleeve Classic Jersey, L",Clothing,53.99,Active
+491,"Short-Sleeve Classic Jersey, XL",Clothing,53.99,Active
+492,"APPLE iPhone 14 Plus (Blue, 256 GB)",Mobile,799.00,Active
+493,"LL Touring Frame - Yellow, 62",Components,333.42,Active
+494,"APPLE iPhone 14 Plus (Purple, 256 GB)",Mobile,799.00,Active
+495,"APPLE iPhone 14 Plus (Midnight, 256 GB)",Mobile,799.00,Active
+496,"APPLE iPhone 14 Plus (Yellow, 256 GB)",Mobile,799.00,Active
+497,"Apple iPhone XR (Blue, 256 GB) (Includes EarPods, Power Adapter)",Mobile,649.99,Active
+498,"Apple iPhone XR (Coral, 256 GB) (Includes EarPods, Power Adapter)",Mobile,649.99,Active
+499,"Apple iPhone XR (White, 256 GB) (Includes EarPods, Power Adapter)",Mobile,649.99,Active
+500,"Apple iPhone XR (Yellow, 256 GB) (Includes EarPods, Power Adapter)",Mobile,649.99,Active
+501,Rear Derailleur,Components,121.46,Active
+502,"LL Touring Frame - Blue, 50",Components,333.42,Active
+503,"LL Touring Frame - Blue, 54",Components,333.42,Active
+504,"LL Touring Frame - Blue, 58",Components,333.42,Active
+505,"LL Touring Frame - Blue, 62",Components,333.42,Active
+506,"LL Touring Frame - Yellow, 44",Components,333.42,Active
+507,"LL Touring Frame - Yellow, 50",Components,333.42,Active
+508,"LL Touring Frame - Yellow, 54",Components,333.42,Active
+509,"LL Touring Frame - Yellow, 58",Components,333.42,Active
+510,"LL Touring Frame - Blue, 44",Components,333.42,Active
+511,"ML Mountain Frame-W - Silver, 40",Components,364.09,Active
+512,"ML Mountain Frame-W - Silver, 42",Components,364.09,Active
+513,"ML Mountain Frame-W - Silver, 46",Components,364.09,Active
+514,Rear Brakes,Components,106.50,Active
+515,MI 108 cm (43 inches) 5X Series 4K Ultra HD LED Smart Android TV L43M6-ES (Grey),Electronics,609.74,Active
+516,MI 138.8 cm (55 inches) 5X Series 4K Ultra HD LED Smart Android TV L55M6-ES (Grey),Electronics,853.65,Active
+517,HL Mountain Seat-Saddle,Components,52.64,Active
+518,Samsung 108 cm (43 inches) Crystal 4K Neo Series Ultra HD Smart LED TV UA43AUE65AKXXL (Black),Electronics,584.15,Active
+519,Samsung 138 cm (55 inches) Crystal 4K Neo Series Ultra HD Smart LED TV UA55AUE65AKXXL (Black),Electronics,864.63,Active
+520,HL Road Seat-Saddle,Components,52.64,Active
+521,Hisense 126 cm (50 inches) Bezelless Series 4K Ultra HD Smart LED Google TV 50A6H (Black),Electronics,670.61,Active
+522,LG 139 cm (55 inches) 4K Ultra HD Smart LED TV 55UQ7500PSF (Ceramic Black),Electronics,975.49,Active
+523,HL Touring Seat-Saddle,Components,52.64,Active
+524,"Gaming Monitor - Silver, 42",Monitor,264.05,Active
+525,"Gaming Monitor - Silver, 44",Monitor,264.05,Active
+526,"Gaming Monitor - Silver, 48",Monitor,264.05,Active
+527,"Gaming Monitor - Silver, 52",Monitor,264.05,Active
+528,GIZGA essentials Universal Silicone Keyboard Protector Skin,Accessories,4.99,Active
+529,Inventis 5V 1.2W Portable Flexible USB LED Light Lamp,Accessories,3.99,Active
+530,Touring Tire Tube,Accessories,4.99,Active
+531,"Gaming Monitor - Black, 42",Monitor,249.79,Active
+532,"Gaming Monitor - Black, 44",Monitor,249.79,Active
+533,"Gaming Monitor - Black, 48",Monitor,249.79,Active
+534,"Gaming Monitor - Black, 52",Monitor,249.79,Active
+535,Kodak 139 cm (55 inches) 4K Ultra HD Smart LED TV 55CA0909 (Black),Electronics,621.94,Active
+536,Redmi 126 cm (50 inches) 4K Ultra HD Android Smart LED TV X50 | L50M6-RA (Black),Electronics,548.77,Active
+537,"LG 1.5 Ton 5 Star AI DUAL Inverter Split AC (Copper, Super Convertible 6-in-1 Cooling, HD Filter with Anti-Virus Protection, 2022 Model, PS-Q19YNZE, White)",Electronics,926.71,Active
+538,LL Road Tire,Accessories,21.49,Active
+539,LG 108 cm (43 inches) 4K Ultra HD Smart LED TV 43UQ7500PSF (Ceramic Black),Electronics,609.63,Active
+540,Acer 139 cm (55 inches) I Series 4K Ultra HD Android Smart LED TV AR55AR2851UDFL (Black),Electronics,585.24,Active
+541,Sansui 140cm (55 inches) 4K Ultra HD Certified Android LED TV with Dolby Audio & Dolby Vision JSW55ASUHD (Mystique Black),Electronics,692.56,Active
+542,OnePlus 163.8 cm (65 inches) U Series 4K LED Smart Android TV 65U1S (Black),Electronics,853.65,Active
+543,ML Mountain Pedal,Components,62.09,Active
+544,HL Mountain Pedal,Components,80.99,Active
+545,Sony Bravia 164 cm (65 inches) 4K Ultra HD Smart LED Google TV KD-65X74K (Black),Electronics,853.65,Active
+546,ML Road Pedal,Components,62.09,Active
+547,HL Road Pedal,Components,80.99,Active
+548,Touring Pedal,Components,80.99,Active
+549,"ML Mountain Frame-W - Silver, 38",Components,364.09,Active
+550,"Gaming Monitor - Black, 40",Monitor,249.79,Active
+551,"Gaming Monitor - Silver, 40",Monitor,264.05,Active
+552,Front Derailleur,Components,91.49,Active
+553,LL Touring Handlebars,Components,46.09,Active
+554,HL Touring Handlebars,Components,91.57,Active
+555,Front Brakes,,106.50,Active
+556,LL Crankset,Components,175.49,Active
+557,ML Crankset,Components,256.49,Active
+558,HL Crankset,Components,404.99,Active
+559,Chain,Components,20.24,Active
+560,"APPLE iPhone 15 Pro (Midnight, 256 GB)",Mobile,1000.01,Active
+561,"Touring-1000 Yellow, 46",Bikes,2384.07,Active
+562,"Touring-1000 Yellow, 50",Bikes,2384.07,Active
+563,"Touring-1000 Yellow, 54",Bikes,2384.07,Active
+564,"Touring-1000 Yellow, 60",Bikes,2384.07,Active
+565,"Touring-3000 Blue, 54",Cameras,742.35,Active
+566,"Touring-3000 Blue, 58",Cameras,742.35,Active
+567,"Touring-3000 Blue, 62",Cameras,742.35,Active
+568,"Touring-3000 Yellow, 44",Cameras,742.35,Active
+569,"Touring-3000 Yellow, 50",Cameras,742.35,Active
+570,"Touring-3000 Yellow, 54",Cameras,742.35,Active
+571,"Touring-3000 Yellow, 58",Cameras,742.35,Active
+572,"Touring-3000 Yellow, 62",Cameras,742.35,Active
+573,"Touring-1000 Blue, 46",Bikes,2384.07,Active
+574,"Touring-1000 Blue, 50",Bikes,2384.07,Active
+575,"Touring-1000 Blue, 54",Bikes,2384.07,Active
+576,"Touring-1000 Blue, 60",Bikes,2384.07,Active
+577,"APPLE iPhone 15 Pro (Yellow, 256 GB)",Mobile,1000.01,Active
+578,"APPLE iPhone 15 Pro Max (Blue, 256 GB)",Mobile,1199.00,Active
+579,"APPLE iPhone 15 Pro Max (Purple, 256 GB)",Mobile,1199.00,Active
+580,"Road-350-W Yellow, 40",Bikes,1700.99,Active
+581,"Road-350-W Yellow, 42",Bikes,1700.99,Active
+582,"Road-350-W Yellow, 44",Bikes,1700.99,Active
+583,"Road-350-W Yellow, 48",Bikes,1700.99,Active
+584,"Road-750 Black, 58",Bikes,539.99,Active
+585,"Touring-3000 Blue, 44",Cameras,742.35,Active
+586,"Touring-3000 Blue, 50",Cameras,742.35,Active
+587,"Mountain-400-W Silver, 38",Cameras,769.49,Active
+588,"Mountain-400-W Silver, 40",Cameras,769.49,Active
+589,"Mountain-400-W Silver, 42",Cameras,769.49,Active
+590,"Mountain-400-W Silver, 46",Cameras,769.49,Active
+591,"Mountain-500 Silver, 40",Bikes,564.99,Active
+592,"Mountain-500 Silver, 42",Bikes,564.99,Active
+593,"Mountain-500 Silver, 44",Bikes,564.99,Active
+594,DJI Osmo Pocket 3,Cameras,762.00,Active
+595,Sony a7 IV,Cameras,2498.00,Active
+596,"Mountain-500 Black, 40",Bikes,539.99,Active
+597,"Mountain-500 Black, 42",Bikes,539.99,Active
+598,"Mountain-500 Black, 44",Bikes,539.99,Active
+599,"Mountain-500 Black, 48",Bikes,539.99,Active
+600,"Mountain-500 Black, 52",Bikes,539.99,Active
+601,LL Bottom Bracket,Components,53.99,Active
+602,ML Bottom Bracket,Components,101.24,Active
+603,HL Bottom Bracket,Components,121.49,Active
+604,"Road-750 Black, 44",Bikes,539.99,Active
+605,"Road-750 Black, 48",Bikes,539.99,Active
+606,"Road-750 Black, 52",Bikes,539.99,Active
