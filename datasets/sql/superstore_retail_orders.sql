@@ -19869,6 +19869,7 @@ INSERT INTO order_header(order_id,order_date,customer_id,order_type) VALUES (692
 INSERT INTO order_header(order_id,order_date,customer_id,order_type) VALUES (70146, '2026-05-08', 11496, 'Retail'); 
 INSERT INTO order_header(order_id,order_date,customer_id,order_type) VALUES (52112, '2025-08-06', 11496, 'Retail'); 
 INSERT INTO order_header(order_id,order_date,customer_id,order_type) VALUES (46395, '2024-06-02', 11496, 'Retail'); 
+INSERT INTO order_header(order_id,order_date,customer_id,order_type) VALUES (100, '2024-06-02', 11496, 'Retail'); 
 INSERT INTO order_header(order_id,order_date,customer_id,order_type) VALUES (70059, '2026-05-07', 11497, 'Online'); 
 INSERT INTO order_header(order_id,order_date,customer_id,order_type) VALUES (61116, '2025-12-31', 11499, 'Retail'); 
 INSERT INTO order_header(order_id,order_date,customer_id,order_type) VALUES (55782, '2025-10-08', 11499, 'Retail'); 
